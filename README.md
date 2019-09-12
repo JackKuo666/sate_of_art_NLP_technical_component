@@ -33,3 +33,7 @@
 
 
 [ 深度 | 刘群：基于深度学习的自然语言处理，边界在哪里？ ](https://www.leiphone.com/news/201908/3fbKEVpvrivuV1jb.html)
+
+[周明：自然语言对话引擎](https://www.msra.cn/zh-cn/news/features/ming-zhou-conversation-engine-20170413)
+
+[机器推理系列文章概览：七大NLP任务最新方法与进展](https://www.msra.cn/zh-cn/news/features/machine-reasoning)
