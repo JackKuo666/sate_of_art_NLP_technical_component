@@ -37,3 +37,5 @@
 [周明：自然语言对话引擎](https://www.msra.cn/zh-cn/news/features/ming-zhou-conversation-engine-20170413)
 
 [机器推理系列文章概览：七大NLP任务最新方法与进展](https://www.msra.cn/zh-cn/news/features/machine-reasoning)
+
+[对话系统综述](https://kingsea0-0.github.io/posts/25337/)
