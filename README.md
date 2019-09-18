@@ -58,5 +58,6 @@
 
 [letiantian/ChineseTone](https://github.com/letiantian/ChineseTone)
 
-
+## 其他：在线非python包
+http://corpus.zhonghuayuwen.org/CpsPinyinTagger.aspx
 
