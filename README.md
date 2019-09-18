@@ -49,3 +49,14 @@
 ## 2.2. WGAN以及后来的改造
 [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 
+# 3.汉字转拼音python包调研
+## 3.1. 原理
+[如何实现拼音与汉字的互相转换](https://www.letiantian.me/2016-02-08-pinyin-hanzi/)
+
+## 3.2 python包
+[mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
+
+[letiantian/ChineseTone](https://github.com/letiantian/ChineseTone)
+
+
+
