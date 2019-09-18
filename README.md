@@ -39,3 +39,13 @@
 [机器推理系列文章概览：七大NLP任务最新方法与进展](https://www.msra.cn/zh-cn/news/features/machine-reasoning)
 
 [对话系统综述](https://kingsea0-0.github.io/posts/25337/)
+
+# 2.GAN相关知识
+## 2.1. GAN最初的原理与代码
+原理：[面经 | 基础算法-生成对抗网络（GAN）](https://mp.weixin.qq.com/s/l55RRXLU2Of2kLjQzrW0jQ)
+
+代码：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
+
+## 2.2. WGAN以及后来的改造
+[令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
+
