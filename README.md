@@ -54,7 +54,7 @@
 
 [如何实现拼音与汉字的互相转换](https://www.letiantian.me/2016-02-08-pinyin-hanzi/)
 
-### 1.基于词库的汉字转拼音
+### 3.1.1.基于词库的汉字转拼音
 词库中既要包含每个字的拼音，也要包含常用单词/短语的读音。有些字是多音字，所以至少要保存其最常用的读音，不常用的读音多出现在单词/短语里。
 
 好了，词库准备好了，现在手头有一句话要转换要转换为拼音，这句话是：
@@ -83,7 +83,7 @@
 ```
 于是你好世界杯被转换为nǐ,hǎo,shì,jiè,bēi。
 
-### 2.基于词库和分词工具的汉字转拼音
+### 3.1.2.基于词库和分词工具的汉字转拼音
 纯粹的基于词库的方法在实际的使用中会遇到问题，例如提出了解决方案这句话中了解会被当作一个单词，所以会得到错误的结果：
 ```
 tí,chū,liǎo,jiě,jué,fāng,àn
@@ -106,17 +106,26 @@ https://pypinyin.readthedocs.io/zh_CN/master/develop.html#id5
 ## 3.2 python包以及多音字准确率
 多音字词表数据来源：https://zhuanlan.zhihu.com/p/65206293
 
-### 1.[mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
+### 3.2.1.[mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
 
  总共740个多音字组成的词，其中该工具拼错的有66个，正确率：91.1%
 
 错误例子：https://github.com/mozillazg/python-pinyin/issues/185
 
-### 2.[letiantian/ChineseTone](https://github.com/letiantian/ChineseTone)
+### 3.3.2.[letiantian/ChineseTone](https://github.com/letiantian/ChineseTone)
 
 总共740个多音字组成的词，其中该工具拼错的有83个，正确率：88.8%
 
 错误例子：https://github.com/letiantian/ChineseTone/issues/8
+
+### 3.2.3.[pyhnalp](https://github.com/hankcs/pyhanlp)
+总共740个多音字组成的词，其中该工具拼错的有?个，正确率：?
+
+另外：pyhanlp安装使用比其他两个稍微麻烦：
+1.pyhanlp只是源码java的接口，所以依赖jdk
+
+2.pyhanlp使用pip安装之后可能需要单独下载仓库中的data目录才能使用
+
 ## 其他：在线非python包
 http://corpus.zhonghuayuwen.org/CpsPinyinTagger.aspx
 
