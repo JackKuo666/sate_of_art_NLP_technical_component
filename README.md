@@ -127,7 +127,7 @@ https://pypinyin.readthedocs.io/zh_CN/master/develop.html#id5
 
 2.pyhanlp使用pip安装之后可能需要单独下载仓库中的data目录才能使用
 
-### 3.2.3.其他：在线非python包
+### 3.2.4.其他：在线非python包
 http://corpus.zhonghuayuwen.org/CpsPinyinTagger.aspx
 
 
