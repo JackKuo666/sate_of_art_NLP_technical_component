@@ -3,7 +3,7 @@
 
 最近在学习，调研NLP技术解决问题的时候，发现好多方法已经过时了，所以有必要在这里总结一下，欢迎PR!!!
 
-## 1.关于NLP目前的技术进展
+# 1.关于NLP目前的技术进展
 
 1.1.词语形态问题
 
@@ -119,7 +119,7 @@ https://pypinyin.readthedocs.io/zh_CN/master/develop.html#id5
 错误例子：https://github.com/letiantian/ChineseTone/issues/8
 
 ### 3.2.3.[pyhnalp](https://github.com/hankcs/pyhanlp)
-总共740个多音字组成的词，其中该工具拼错的有?个，正确率：?
+总共740个多音字组成的词，其中该工具拼错的有个53，正确率：92.8%
 
 另外：pyhanlp安装使用比其他两个稍微麻烦：
 1.pyhanlp只是源码java的接口，所以依赖jdk
@@ -128,4 +128,12 @@ https://pypinyin.readthedocs.io/zh_CN/master/develop.html#id5
 
 ## 其他：在线非python包
 http://corpus.zhonghuayuwen.org/CpsPinyinTagger.aspx
+
+
+# 4.智能对话领域的进展
+
+## 4.1. 阿里云小蜜 Dialog Studio 平台
+[一个中心+三大原则 -- 阿里巴巴小蜜这样做智能对话开发平台](https://yq.aliyun.com/articles/686899?spm=a2c4e.11163080.searchblog.33.17a52ec1rRBNDI)
+
+[阿里云小蜜对话机器人背后的核心算法](https://www.toutiao.com/a6739010864487088644/?tt_from=dingtalk&utm_campaign=client_share&timestamp=1569062324&app=news_article&utm_source=dingtalk&utm_medium=toutiao_ios&req_id=2019092118384301001404706806E2AD4B&dtshare_count=1&group_id=6739010864487088644)
 
