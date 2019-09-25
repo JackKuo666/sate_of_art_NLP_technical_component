@@ -118,7 +118,7 @@ https://pypinyin.readthedocs.io/zh_CN/master/develop.html#id5
 
 错误例子：https://github.com/letiantian/ChineseTone/issues/8
 
-### 3.2.3.[pyhnalp](https://github.com/hankcs/pyhanlp)
+### 3.2.3.[pyhanlp](https://github.com/hankcs/pyhanlp)
 总共740个多音字组成的词，其中该工具拼错的有个53，正确率：92.8%
 
 另外：pyhanlp安装使用比其他两个稍微麻烦：
