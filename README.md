@@ -40,6 +40,8 @@
 
 [对话系统综述](https://kingsea0-0.github.io/posts/25337/)
 
+[Yann LeCun：深度学习的能与不能](https://weibointl.api.weibo.cn/share/91853617.html?weibo_id=4415617601873029&from=singlemessage)
+
 # 2.GAN相关知识
 ## 2.1. GAN最初的原理与代码
 原理：[面经 | 基础算法-生成对抗网络（GAN）](https://mp.weixin.qq.com/s/l55RRXLU2Of2kLjQzrW0jQ)
