@@ -140,3 +140,13 @@ http://corpus.zhonghuayuwen.org/CpsPinyinTagger.aspx
 
 [阿里云小蜜对话机器人背后的核心算法](https://www.toutiao.com/a6739010864487088644/?tt_from=dingtalk&utm_campaign=client_share&timestamp=1569062324&app=news_article&utm_source=dingtalk&utm_medium=toutiao_ios&req_id=2019092118384301001404706806E2AD4B&dtshare_count=1&group_id=6739010864487088644)
 
+# 5.自然语言处理偏差的来源:
+1.训练数据选取；
+
+2.标注者的偏见；
+
+3.模型归纳偏差；
+
+4.任务总体设计。 
+
+via: Sebastian Ruder
